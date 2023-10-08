@@ -1,0 +1,18 @@
+.bande {
+    margin: auto;
+    background-color: #bd9344;
+}
+
+.bande>h1 {
+    display: flex;
+    justify-content: center;
+    gap: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    color: azure;
+}
+
+form {
+    display: flex;
+    align-items: center;
+}
